@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**farahanasuhaimi/farahanasuhaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Assalamualaikum and Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Javascript and its frameworks especially React. Super confuse of the basic. 
 - 💬 Ask me about Python, I am Pythonista by heart but 
 - 📫 How to reach me: Farahana100days @ Twitter and farahanams # Instagram
--->
+
