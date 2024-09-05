@@ -1,12 +1,41 @@
-### Assalamualaikum and Hi there 👋
+# Assalamualaikum and Hello, World! 👋
 
-#### I'm Farahana, a Developer at IGS Protech with a passion for web development and Python.
+I'm Farahana, a Data Engineer with a growing passion for web development and design. Welcome to my digital playground!
 
-- 🔭 Currently, I'm working hard at IGS Protech, but I'm always open to taking on new freelance projects to up my game.
-- 🌱 In my free time, I'm always learning and expanding my knowledge of web development.
-- 👯 I'm looking to collaborate on lodging websites with e-commerce functionality, so if that's your thing, let's connect!
-- 🤔 I'm still learning about Javascript and its frameworks, especially React, and would appreciate any help or guidance you can offer. 
-- 💬 Feel free to ask me anything about Python, as I'm a Pythonista at heart, but I'm also excited to explore new opportunities in web development.
-- 📫 You can reach me at Farahana100days on Twitter and farahanams # Instagram
+## 🚀 Quick Rundown
 
-- ☕ And if you'd like to support my work, feel free to buy me a coffee [here](https://www.buymeacoffee.com/farahanasuhaimi)
+- 💼 Data Engineer by day, aspiring web developer by night
+- 🐍 Pythonista at heart, but always eager to explore new tech horizons
+- 🌐 On a mission to blend data engineering with web development magic
+
+## 🔭 Current Endeavors
+
+- Crafting data solutions in my day job
+- Seeking exciting freelance web projects to level up my skills
+- Diving deep into JavaScript and its frameworks, especially Laravel and React
+
+## 👯 Let's Collaborate!
+
+I'm particularly interested in building lodging websites with e-commerce functionality. If that's your jam, let's connect and create something awesome!
+
+## 🌱 Always Learning
+
+- Expanding my web development toolkit
+- Embracing the intricacies of JavaScript and React
+- Open to guidance and mentorship in my web dev journey
+
+## 💬 Let's Chat
+
+- Ask me anything about Python – I'm always ready to geek out!
+- Share your web development wisdom – I'm all ears!
+
+## 📫 Find Me
+
+- Twitter: @Farahana100days
+- Instagram: @farahanams
+
+## ☕ Fuel My Code
+
+If you find my work helpful, consider [buying me a coffee](https://www.buymeacoffee.com/farahansuhaimi). It keeps the code flowing and the creativity buzzing!
+
+Let's build something amazing together! 🚀
