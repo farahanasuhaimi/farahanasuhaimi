@@ -6,7 +6,6 @@ I'm Farahana, a Data Engineer with a growing passion for web development and des
 
 - 💼 Data Engineer by day, aspiring web developer by night
 - 🐍 Pythonista at heart, but always eager to explore new tech horizons
-- 🌐 On a mission to blend data engineering with web development magic
 
 ## 🔭 Current Endeavors
 
