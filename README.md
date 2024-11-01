@@ -10,8 +10,7 @@ I'm Farahana, a Data Engineer with a growing passion to data science. Welcome to
 ## 🔭 Current Endeavors
 
 - Crafting data solutions in my day job
-- Seeking exciting freelance web projects to level up my skills
-- Diving deep into JavaScript and its frameworks, especially Laravel and React
+- Seeking exciting freelance data science projects
 
 ## 🌱 Always Learning
 
