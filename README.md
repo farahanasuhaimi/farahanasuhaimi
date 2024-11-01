@@ -1,10 +1,10 @@
 # Assalamualaikum and Hello, World! 👋
 
-I'm Farahana, a Data Engineer with a growing passion for web development and design. Welcome to my digital playground!
+I'm Farahana, a Data Engineer with a growing passion to data science. Welcome to my digital playground!
 
 ## 🚀 Quick Rundown
 
-- 💼 Data Engineer by day, aspiring web developer by night
+- 💼 Data Engineer by day, transitioning to Data Scientist by night
 - 🐍 Pythonista at heart, but always eager to explore new tech horizons
 
 ## 🔭 Current Endeavors
@@ -13,20 +13,16 @@ I'm Farahana, a Data Engineer with a growing passion for web development and des
 - Seeking exciting freelance web projects to level up my skills
 - Diving deep into JavaScript and its frameworks, especially Laravel and React
 
-## 👯 Let's Collaborate!
-
-I'm particularly interested in building lodging websites with e-commerce functionality. If that's your jam, let's connect and create something awesome!
-
 ## 🌱 Always Learning
 
-- Expanding my web development toolkit
-- Embracing the intricacies of JavaScript and React
-- Open to guidance and mentorship in my web dev journey
+- Data science skills
+- Pytorch, ML and DL
+- LLM and Gen AI is not my cup of tea, but I used it daily
 
 ## 💬 Let's Chat
 
 - Ask me anything about Python – I'm always ready to geek out!
-- Share your web development wisdom – I'm all ears!
+- Share your data science journey – I'm all ears!
 
 ## 📫 Find Me
 
